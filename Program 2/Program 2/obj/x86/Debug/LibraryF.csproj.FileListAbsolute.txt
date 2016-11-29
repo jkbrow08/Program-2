@@ -1,0 +1,2 @@
+G:\Program 2\Program 2\obj\x86\Debug\Program 2.exe
+G:\Program 2\Program 2\obj\x86\Debug\Program 2.pdb

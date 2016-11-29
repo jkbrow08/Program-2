@@ -1,0 +1,13 @@
+G:\Program 2\Program 2\bin\Debug\LibraryFiles.exe
+G:\Program 2\Program 2\bin\Debug\LibraryFiles.pdb
+G:\Program 2\Program 2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Program 2\Program 2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+G:\Program 2\Program 2\obj\x86\Debug\LibraryItems.PatronForm.resources
+G:\Program 2\Program 2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+G:\Program 2\Program 2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Program 2\Program 2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Program 2\Program 2\obj\x86\Debug\LibraryFiles.exe
+G:\Program 2\Program 2\obj\x86\Debug\LibraryFiles.pdb
+G:\Program 2\Program 2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+G:\Program 2\Program 2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+G:\Program 2\Program 2\obj\x86\Debug\LibraryItems.BookForm.resources
